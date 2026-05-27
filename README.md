@@ -6,6 +6,7 @@ Sistema inteligente para gestión de instrumental quirúrgico.
 
 - Registro de instrumental
 - Gestión de equipos quirúrgicos
+- Control de faltantes
 - Dashboard interactivo
 - Auditoría
 - Búsqueda inteligente
@@ -17,7 +18,7 @@ Sistema inteligente para gestión de instrumental quirúrgico.
 - SQLite
 - Pandas
 
-## Ejecutar
+## Ejecución
 
 ```bash
 streamlit run app.py
