@@ -1,2 +1,25 @@
-# SurgiControl.1
-Diseñar un software de gestión y control digital de instrumental hospitalario que permita organizar equipos quirúrgicos e instrumental accesorio, facilitando la búsqueda, actualización, control de cantidades y detección de faltantes en tiempo real dentro de central de esterilización y áreas quirúrgicas.
+# SurgiControl
+
+Sistema inteligente para gestión de instrumental quirúrgico.
+
+## Funciones
+
+- Registro de instrumental
+- Gestión de equipos quirúrgicos
+- Control de faltantes
+- Dashboard interactivo
+- Auditoría
+- Búsqueda inteligente
+
+## Tecnologías
+
+- Python
+- Streamlit
+- SQLite
+- Pandas
+
+## Ejecución
+
+```bash
+streamlit run app.py
+```
